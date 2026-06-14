@@ -1,0 +1,14 @@
+D:\LTM\demo-github\demo-github\bin\Debug\net10.0\demo-github.exe
+D:\LTM\demo-github\demo-github\bin\Debug\net10.0\demo-github.deps.json
+D:\LTM\demo-github\demo-github\bin\Debug\net10.0\demo-github.runtimeconfig.json
+D:\LTM\demo-github\demo-github\bin\Debug\net10.0\demo-github.dll
+D:\LTM\demo-github\demo-github\bin\Debug\net10.0\demo-github.pdb
+D:\LTM\demo-github\demo-github\obj\Debug\net10.0\demo-github.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTM\demo-github\demo-github\obj\Debug\net10.0\demo-github.AssemblyInfoInputs.cache
+D:\LTM\demo-github\demo-github\obj\Debug\net10.0\demo-github.AssemblyInfo.cs
+D:\LTM\demo-github\demo-github\obj\Debug\net10.0\demo-github.csproj.CoreCompileInputs.cache
+D:\LTM\demo-github\demo-github\obj\Debug\net10.0\demo-github.dll
+D:\LTM\demo-github\demo-github\obj\Debug\net10.0\refint\demo-github.dll
+D:\LTM\demo-github\demo-github\obj\Debug\net10.0\demo-github.pdb
+D:\LTM\demo-github\demo-github\obj\Debug\net10.0\demo-github.genruntimeconfig.cache
+D:\LTM\demo-github\demo-github\obj\Debug\net10.0\ref\demo-github.dll
