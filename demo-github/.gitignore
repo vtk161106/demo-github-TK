@@ -1,0 +1,19 @@
+# Visual Studio cache/options directory
+.vs/
+
+# Build results
+bin/
+obj/
+
+# Visual Studio user-specific files
+*.user
+*.suo
+*.userosscache
+
+# Local environment
+.env
+local.settings.json
+
+# IDE
+.vscode/
+.idea/
